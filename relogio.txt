@@ -1,0 +1,4 @@
+   Meu primeiro projeto lançado no Github.
+Foi um trabalho muito simples ,tiveram outros que fiz antes desse mas
+esse foi o primeiro lançado para o portfólio.
+Contém apenas 4 arquivos nessa pasta.
